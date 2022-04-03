@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Delhi",
+    "state": "DEL"
+  },
+  {
+    "id": "2",
+    "name": "Mumbai",
+    "state": "MUM"
+  },
+  {
+    "id": "3",
+    "name": "Hyderabad",
+    "state": "HYD"
+  },
+  {
+    "id": "4",
+    "name": "Bangalore",
+    "state": "BLR"
+  },
+  {
+    "id": "5",
+    "name": "Pune",
+    "state": "PNE"
+  },
+  {
+    "id": "6",
+    "name": "Kolkata",
+    "state": "KOL"
+  },
+  {
+    "id": "7",
+    "name": "Chennai",
+    "state": "CHN"
+  }
+]

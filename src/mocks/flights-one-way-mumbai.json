@@ -1,0 +1,134 @@
+[
+  {
+    "flightNbr": "6E-278",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "20:00",
+    "deptCity": "Delhi",
+    "arivalTime": "22:00",
+    "arivalCity": "Mumbai",
+    "noOfStops": "0",
+    "price": "4355"
+  },
+  {
+    "flightNbr": "6E-274",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "16:00",
+    "deptCity": "Delhi",
+    "arivalTime": "18:00",
+    "arivalCity": "Kolkata",
+    "noOfStops": "0",
+    "price": "6355"
+  },
+  {
+    "flightNbr": "6E-275",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "15:00",
+    "deptCity": "Delhi",
+    "arivalTime": "17:00",
+    "arivalCity": "Bangalore",
+    "noOfStops": "0",
+    "price": "8355"
+  },
+  {
+    "flightNbr": "6E-275",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "15:00",
+    "deptCity": "Bangalore",
+    "arivalTime": "17:00",
+    "arivalCity": "Hyderabad",
+    "noOfStops": "1",
+    "price": "5622"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "03:00",
+    "deptCity": "Delhi",
+    "arivalTime": "05:00",
+    "arivalCity": "Mumbai",
+    "noOfStops": "0",
+    "price": "5500"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Delhi",
+    "arivalTime": "06:00",
+    "arivalCity": "Mumbai",
+    "noOfStops": "0",
+    "price": "3600"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "03:00",
+    "deptCity": "Delhi",
+    "arivalTime": "05:00",
+    "arivalCity": "Kolkata",
+    "noOfStops": "0",
+    "price": "4500"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Delhi",
+    "arivalTime": "06:00",
+    "arivalCity": "Pune",
+    "noOfStops": "0",
+    "price": "3600"
+  },
+  {
+    "flightNbr": "AI-266",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Delhi",
+    "arivalTime": "06:00",
+    "arivalCity": "Pune",
+    "noOfStops": "0",
+    "price": "5988"
+  },
+  {
+    "flightNbr": "6E-279",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "16:00",
+    "deptCity": "Delhi",
+    "arivalTime": "22:00",
+    "arivalCity": "Bangalore",
+    "noOfStops": "2",
+    "price": "4355"
+  },
+  {
+    "flightNbr": "AI-266",
+    "airlineName": "Emirates",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/emirates-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Bangalore",
+    "arivalTime": "06:00",
+    "arivalCity": "Chennai",
+    "noOfStops": "0",
+    "price": "5988"
+  },
+  {
+    "flightNbr": "6E-279",
+    "airlineName": "AirIndia",
+    "airlineLogo": "https://i.pinimg.com/736x/8a/a2/f8/8aa2f83b8a2eb019f30e08d239f62e9b.jpg",
+    "deptTime": "16:00",
+    "deptCity": "Bangalore",
+    "arivalTime": "22:00",
+    "arivalCity": "Chennai",
+    "noOfStops": "2",
+    "price": "4355"
+  }
+]
